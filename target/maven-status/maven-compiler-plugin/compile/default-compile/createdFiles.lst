@@ -1,0 +1,15 @@
+JavaBean\Alumno.class
+JavaBean\Matricula.class
+Utilies\Validator.class
+JavaBean\DocenteCurso.class
+JavaBean\Usuario.class
+com\utp\colegiowebapp\resources\JakartaEE91Resource.class
+JavaBean\MatriculaCurso.class
+JavaBean\Docente.class
+JavaBean\HistorialNotas.class
+JavaBean\Area.class
+Connection\UConnection.class
+JavaBean\Curso.class
+com\utp\colegiowebapp\JakartaRestConfiguration.class
+JavaBean\AsistenciaDocente.class
+Utilies\Bitacora.class
