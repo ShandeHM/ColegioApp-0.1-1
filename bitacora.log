@@ -1,0 +1,2042 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-26T21:28:28.408877200Z</date>
+  <millis>1682544508408</millis>
+  <nanos>877200</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Need to specify class name in environment or system property, or in an application resource file: java.naming.factory.initial****[Ljava.lang.StackTraceElement;@254989ff</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-26T21:30:16.823248800Z</date>
+  <millis>1682544616823</millis>
+  <nanos>248800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Need to specify class name in environment or system property, or in an application resource file: java.naming.factory.initial****[Ljava.lang.StackTraceElement;@254989ff</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-26T21:34:08.372235800Z</date>
+  <millis>1682544848372</millis>
+  <nanos>235800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Need to specify class name in environment or system property, or in an application resource file: java.naming.factory.initial****[Ljava.lang.StackTraceElement;@254989ff</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-26T21:34:31.304529200Z</date>
+  <millis>1682544871304</millis>
+  <nanos>529200</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Need to specify class name in environment or system property, or in an application resource file: java.naming.factory.initial****[Ljava.lang.StackTraceElement;@254989ff</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-26T21:38:05.035803400Z</date>
+  <millis>1682545085035</millis>
+  <nanos>803400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Need to specify class name in environment or system property, or in an application resource file: java.naming.factory.initial****[Ljava.lang.StackTraceElement;@254989ff</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-26T21:49:10.192047600Z</date>
+  <millis>1682545750192</millis>
+  <nanos>47600</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Need to specify class name in environment or system property, or in an application resource file: java.naming.factory.initial****[Ljava.lang.StackTraceElement;@254989ff</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-26T21:49:28.995696900Z</date>
+  <millis>1682545768995</millis>
+  <nanos>696900</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Need to specify class name in environment or system property, or in an application resource file: java.naming.factory.initial****[Ljava.lang.StackTraceElement;@254989ff</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-26T23:43:12.248772500Z</date>
+  <millis>1682552592248</millis>
+  <nanos>772500</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot invoke "java.sql.Connection.prepareCall(String)" because "con" is null****[Ljava.lang.StackTraceElement;@4fca772d</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-26T23:43:51.846048Z</date>
+  <millis>1682552631846</millis>
+  <nanos>48000</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot invoke "java.sql.Connection.prepareCall(String)" because "con" is null****[Ljava.lang.StackTraceElement;@4fca772d</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-26T23:58:34.160629100Z</date>
+  <millis>1682553514160</millis>
+  <nanos>629100</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot invoke "java.sql.Connection.prepareCall(String)" because "con" is null****[Ljava.lang.StackTraceElement;@10d59286</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-26T23:59:33.253503400Z</date>
+  <millis>1682553573253</millis>
+  <nanos>503400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Parameter number 1 is not an OUT parameter****[Ljava.lang.StackTraceElement;@29ba4338</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T00:00:15.321555800Z</date>
+  <millis>1682553615321</millis>
+  <nanos>555800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Parameter number 1 is not an OUT parameter****[Ljava.lang.StackTraceElement;@c8e4bb0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T00:00:45.196502800Z</date>
+  <millis>1682553645196</millis>
+  <nanos>502800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Parameter number 1 is not an OUT parameter****[Ljava.lang.StackTraceElement;@c8e4bb0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T00:02:33.869214100Z</date>
+  <millis>1682553753869</millis>
+  <nanos>214100</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Parameter number 1 is not an OUT parameter****[Ljava.lang.StackTraceElement;@c8e4bb0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T00:03:40.889179100Z</date>
+  <millis>1682553820889</millis>
+  <nanos>179100</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Parameter number 1 is not an OUT parameter****[Ljava.lang.StackTraceElement;@c8e4bb0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T00:03:57.829376600Z</date>
+  <millis>1682553837829</millis>
+  <nanos>376600</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Parameter number 1 is not an OUT parameter****[Ljava.lang.StackTraceElement;@c8e4bb0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T00:07:00.239843700Z</date>
+  <millis>1682554020239</millis>
+  <nanos>843700</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Parameter number 1 is not an OUT parameter****[Ljava.lang.StackTraceElement;@c8e4bb0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T00:08:53.159307500Z</date>
+  <millis>1682554133159</millis>
+  <nanos>307500</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Parameter number 1 is not an OUT parameter****[Ljava.lang.StackTraceElement;@c8e4bb0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T00:09:34.382046200Z</date>
+  <millis>1682554174382</millis>
+  <nanos>46200</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Parameter number 1 is not an OUT parameter****[Ljava.lang.StackTraceElement;@c8e4bb0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T00:11:08.083461300Z</date>
+  <millis>1682554268083</millis>
+  <nanos>461300</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot invoke "String.isEmpty()" because the return value of "JavaBean.Alumno.getDni()" is null****[Ljava.lang.StackTraceElement;@58c1c010</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T00:11:26.747146400Z</date>
+  <millis>1682554286747</millis>
+  <nanos>146400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot invoke "String.isEmpty()" because the return value of "JavaBean.Alumno.getDni()" is null****[Ljava.lang.StackTraceElement;@58c1c010</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T00:18:03.725372100Z</date>
+  <millis>1682554683725</millis>
+  <nanos>372100</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Uncompilable code - cannot find symbol
+  symbol:   variable alumno
+  location: class JavaBean.main****[Ljava.lang.StackTraceElement;@1b2c6ec2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T00:18:18.804291600Z</date>
+  <millis>1682554698804</millis>
+  <nanos>291600</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Uncompilable code - cannot find symbol
+  symbol:   variable alumno
+  location: class JavaBean.main****[Ljava.lang.StackTraceElement;@7cd84586</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T00:18:31.561184Z</date>
+  <millis>1682554711561</millis>
+  <nanos>184000</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Uncompilable code - cannot find symbol
+  symbol:   variable alumno
+  location: class JavaBean.main****[Ljava.lang.StackTraceElement;@3d494fbf</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T00:18:42.891657500Z</date>
+  <millis>1682554722891</millis>
+  <nanos>657500</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Uncompilable code - cannot find symbol
+  symbol:   variable alumno
+  location: class JavaBean.main****[Ljava.lang.StackTraceElement;@3d494fbf</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T00:21:13.567853800Z</date>
+  <millis>1682554873567</millis>
+  <nanos>853800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Uncompilable code - cannot find symbol
+  symbol:   variable alumno
+  location: class JavaBean.main****[Ljava.lang.StackTraceElement;@1b2c6ec2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T00:31:27.283648400Z</date>
+  <millis>1682555487283</millis>
+  <nanos>648400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Parameter index out of range (1 &gt; number of parameters, which is 0).****[Ljava.lang.StackTraceElement;@4d826d77</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T00:32:26.015562900Z</date>
+  <millis>1682555546015</millis>
+  <nanos>562900</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Duplicate entry '1' for key 'PRIMARY'****[Ljava.lang.StackTraceElement;@14a2f921</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T00:33:55.916588300Z</date>
+  <millis>1682555635916</millis>
+  <nanos>588300</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Need to specify class name in environment or system property, or in an application resource file: java.naming.factory.initial****[Ljava.lang.StackTraceElement;@3eb07fd3</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T00:35:28.931108800Z</date>
+  <millis>1682555728931</millis>
+  <nanos>108800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Need to specify class name in environment or system property, or in an application resource file: java.naming.factory.initial****[Ljava.lang.StackTraceElement;@3eb07fd3</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T01:13:10.138409200Z</date>
+  <millis>1682557990138</millis>
+  <nanos>409200</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Unknown column 'apellido_materno' in 'field list'****[Ljava.lang.StackTraceElement;@240237d2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T01:13:53.343213400Z</date>
+  <millis>1682558033343</millis>
+  <nanos>213400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Unknown column 'apellido_materno' in 'field list'****[Ljava.lang.StackTraceElement;@240237d2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T03:19:03.198175200Z</date>
+  <millis>1682565543198</millis>
+  <nanos>175200</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error en el formato Contacto****[Ljava.lang.StackTraceElement;@70177ecd</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T03:19:13.847015700Z</date>
+  <millis>1682565553847</millis>
+  <nanos>15700</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error en el formato Contacto****[Ljava.lang.StackTraceElement;@70177ecd</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T03:19:23.507848300Z</date>
+  <millis>1682565563507</millis>
+  <nanos>848300</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error en el formato Contacto****[Ljava.lang.StackTraceElement;@70177ecd</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T03:22:25.255815500Z</date>
+  <millis>1682565745255</millis>
+  <nanos>815500</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error en el formato Contacto****[Ljava.lang.StackTraceElement;@70177ecd</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T03:54:17.985122200Z</date>
+  <millis>1682567657985</millis>
+  <nanos>122200</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error en el formato de DNI****[Ljava.lang.StackTraceElement;@4206a205</message>
+</record>
+<record>
+  <date>2023-04-27T03:54:17.990209300Z</date>
+  <millis>1682567657990</millis>
+  <nanos>209300</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@568bf312</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T03:54:35.525824500Z</date>
+  <millis>1682567675525</millis>
+  <nanos>824500</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error en el formato de DNI****[Ljava.lang.StackTraceElement;@4206a205</message>
+</record>
+<record>
+  <date>2023-04-27T03:54:35.529952600Z</date>
+  <millis>1682567675529</millis>
+  <nanos>952600</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@568bf312</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T04:02:56.728279800Z</date>
+  <millis>1682568176728</millis>
+  <nanos>279800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error en el formato de DNI****[Ljava.lang.StackTraceElement;@4206a205</message>
+</record>
+<record>
+  <date>2023-04-27T04:02:56.733000300Z</date>
+  <millis>1682568176733</millis>
+  <nanos>300</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@568bf312</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T04:03:38.217759300Z</date>
+  <millis>1682568218217</millis>
+  <nanos>759300</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error en el formato de DNI****[Ljava.lang.StackTraceElement;@4206a205</message>
+</record>
+<record>
+  <date>2023-04-27T04:03:38.223340700Z</date>
+  <millis>1682568218223</millis>
+  <nanos>340700</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@568bf312</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T04:04:08.585688300Z</date>
+  <millis>1682568248585</millis>
+  <nanos>688300</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error en el formato de DNI****[Ljava.lang.StackTraceElement;@4206a205</message>
+</record>
+<record>
+  <date>2023-04-27T04:04:08.592478900Z</date>
+  <millis>1682568248592</millis>
+  <nanos>478900</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@568bf312</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T04:05:02.592499200Z</date>
+  <millis>1682568302592</millis>
+  <nanos>499200</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Index 2 out of bounds for length 2****[Ljava.lang.StackTraceElement;@57175e74</message>
+</record>
+<record>
+  <date>2023-04-27T04:05:02.597626900Z</date>
+  <millis>1682568302597</millis>
+  <nanos>626900</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@589b3632</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T04:05:59.982758800Z</date>
+  <millis>1682568359982</millis>
+  <nanos>758800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Index 2 out of bounds for length 2****[Ljava.lang.StackTraceElement;@57175e74</message>
+</record>
+<record>
+  <date>2023-04-27T04:05:59.988971Z</date>
+  <millis>1682568359988</millis>
+  <nanos>971000</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@589b3632</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T04:09:30.188358700Z</date>
+  <millis>1682568570188</millis>
+  <nanos>358700</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Index 2 out of bounds for length 2****[Ljava.lang.StackTraceElement;@57175e74</message>
+</record>
+<record>
+  <date>2023-04-27T04:09:30.194044600Z</date>
+  <millis>1682568570194</millis>
+  <nanos>44600</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@589b3632</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T04:11:44.533910500Z</date>
+  <millis>1682568704533</millis>
+  <nanos>910500</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Index 2 out of bounds for length 2****[Ljava.lang.StackTraceElement;@57175e74</message>
+</record>
+<record>
+  <date>2023-04-27T04:11:44.539037200Z</date>
+  <millis>1682568704539</millis>
+  <nanos>37200</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@589b3632</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T04:18:03.296930800Z</date>
+  <millis>1682569083296</millis>
+  <nanos>930800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'nombres' not found.****[Ljava.lang.StackTraceElement;@15bb6bea</message>
+</record>
+<record>
+  <date>2023-04-27T04:18:03.302019600Z</date>
+  <millis>1682569083302</millis>
+  <nanos>19600</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@123f1134</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T14:14:12.912340400Z</date>
+  <millis>1682604852912</millis>
+  <nanos>340400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot invoke "java.sql.Connection.prepareCall(String)" because "this.con" is null****[Ljava.lang.StackTraceElement;@42dafa95</message>
+</record>
+<record>
+  <date>2023-04-27T14:14:12.925237700Z</date>
+  <millis>1682604852925</millis>
+  <nanos>237700</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@49993335</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T14:15:10.603326100Z</date>
+  <millis>1682604910603</millis>
+  <nanos>326100</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot invoke "java.sql.Connection.prepareCall(String)" because "this.con" is null****[Ljava.lang.StackTraceElement;@42dafa95</message>
+</record>
+<record>
+  <date>2023-04-27T14:15:10.610503Z</date>
+  <millis>1682604910610</millis>
+  <nanos>503000</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@49993335</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T14:18:44.774636900Z</date>
+  <millis>1682605124774</millis>
+  <nanos>636900</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot add or update a child row: a foreign key constraint fails (`colegio`.`matricula`, CONSTRAINT `fk_matricula_alumno_id` FOREIGN KEY (`alumno_id`) REFERENCES `alumno` (`alumno_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)****[Ljava.lang.StackTraceElement;@2aece37d</message>
+</record>
+<record>
+  <date>2023-04-27T14:18:44.779994900Z</date>
+  <millis>1682605124779</millis>
+  <nanos>994900</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@78b1cc93</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T14:27:31.551900400Z</date>
+  <millis>1682605651551</millis>
+  <nanos>900400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot add or update a child row: a foreign key constraint fails (`colegio`.`matricula`, CONSTRAINT `fk_matricula_alumno_id` FOREIGN KEY (`alumno_id`) REFERENCES `alumno` (`alumno_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)****[Ljava.lang.StackTraceElement;@2aece37d</message>
+</record>
+<record>
+  <date>2023-04-27T14:27:31.556883900Z</date>
+  <millis>1682605651556</millis>
+  <nanos>883900</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@78b1cc93</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T14:45:30.552330800Z</date>
+  <millis>1682606730552</millis>
+  <nanos>330800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot invoke "String.isEmpty()" because the return value of "JavaBean.pagoMatricula.getObservacion()" is null****[Ljava.lang.StackTraceElement;@29ba4338</message>
+</record>
+<record>
+  <date>2023-04-27T14:45:30.559730Z</date>
+  <millis>1682606730559</millis>
+  <nanos>730000</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@568bf312</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T15:37:20.048273400Z</date>
+  <millis>1682609840048</millis>
+  <nanos>273400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot invoke "String.isEmpty()" because the return value of "JavaBean.pagoMatricula.getObservacion()" is null****[Ljava.lang.StackTraceElement;@29ba4338</message>
+</record>
+<record>
+  <date>2023-04-27T15:37:20.057593200Z</date>
+  <millis>1682609840057</millis>
+  <nanos>593200</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@568bf312</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T15:47:25.227790400Z</date>
+  <millis>1682610445227</millis>
+  <nanos>790400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot invoke "String.isEmpty()" because the return value of "JavaBean.pagoMatricula.getObservacion()" is null****[Ljava.lang.StackTraceElement;@29ba4338</message>
+</record>
+<record>
+  <date>2023-04-27T15:47:25.235841200Z</date>
+  <millis>1682610445235</millis>
+  <nanos>841200</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@568bf312</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T15:58:03.269996700Z</date>
+  <millis>1682611083269</millis>
+  <nanos>996700</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Unknown column 'pagoMatricula_id' in 'where clause'****[Ljava.lang.StackTraceElement;@2aece37d</message>
+</record>
+<record>
+  <date>2023-04-27T15:58:03.275318900Z</date>
+  <millis>1682611083275</millis>
+  <nanos>318900</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilies.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@78b1cc93</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T16:57:14.347242900Z</date>
+  <millis>1682614634347</millis>
+  <nanos>242900</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Unknown column 'apellido_materno' in 'field list'****[Ljava.lang.StackTraceElement;@29f69090</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T16:57:20.344324900Z</date>
+  <millis>1682614640344</millis>
+  <nanos>324900</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Unknown column 'apellido_materno' in 'field list'****[Ljava.lang.StackTraceElement;@29f69090</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T17:02:28.637751600Z</date>
+  <millis>1682614948637</millis>
+  <nanos>751600</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Unknown column 'apellido_materno' in 'field list'****[Ljava.lang.StackTraceElement;@29f69090</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T17:02:40.547921200Z</date>
+  <millis>1682614960547</millis>
+  <nanos>921200</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Unknown column 'apellido_materno' in 'field list'****[Ljava.lang.StackTraceElement;@29f69090</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-27T17:18:32.142008900Z</date>
+  <millis>1682615912142</millis>
+  <nanos>8900</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>No output parameters returned by procedure.****[Ljava.lang.StackTraceElement;@2d2e5f00</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T00:52:38.222076900Z</date>
+  <millis>1683161558222</millis>
+  <nanos>76900</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot invoke "java.sql.Connection.prepareCall(String)" because "con" is null****[Ljava.lang.StackTraceElement;@4f7d0008</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T01:35:55.281886800Z</date>
+  <millis>1683164155281</millis>
+  <nanos>886800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error en el formato Contacto****[Ljava.lang.StackTraceElement;@cc34f4d</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T01:36:58.901556800Z</date>
+  <millis>1683164218901</millis>
+  <nanos>556800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot invoke "java.sql.Connection.prepareCall(String)" because "this.con" is null****[Ljava.lang.StackTraceElement;@52525845</message>
+</record>
+<record>
+  <date>2023-05-04T01:36:58.906791100Z</date>
+  <millis>1683164218906</millis>
+  <nanos>791100</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@44f75083</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T01:37:44.960193400Z</date>
+  <millis>1683164264960</millis>
+  <nanos>193400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot invoke "java.sql.Connection.prepareCall(String)" because "this.con" is null****[Ljava.lang.StackTraceElement;@52525845</message>
+</record>
+<record>
+  <date>2023-05-04T01:37:44.965231600Z</date>
+  <millis>1683164264965</millis>
+  <nanos>231600</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@44f75083</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T01:37:49.129702Z</date>
+  <millis>1683164269129</millis>
+  <nanos>702000</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot invoke "java.sql.Connection.prepareCall(String)" because "this.con" is null****[Ljava.lang.StackTraceElement;@52525845</message>
+</record>
+<record>
+  <date>2023-05-04T01:37:49.135379600Z</date>
+  <millis>1683164269135</millis>
+  <nanos>379600</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@44f75083</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T01:39:27.098825100Z</date>
+  <millis>1683164367098</millis>
+  <nanos>825100</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot invoke "java.sql.Connection.prepareCall(String)" because "this.con" is null****[Ljava.lang.StackTraceElement;@52525845</message>
+</record>
+<record>
+  <date>2023-05-04T01:39:27.103459100Z</date>
+  <millis>1683164367103</millis>
+  <nanos>459100</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@44f75083</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T01:42:22.138069600Z</date>
+  <millis>1683164542138</millis>
+  <nanos>69600</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot invoke "java.sql.Connection.prepareCall(String)" because "this.con" is null****[Ljava.lang.StackTraceElement;@52525845</message>
+</record>
+<record>
+  <date>2023-05-04T01:42:22.142783800Z</date>
+  <millis>1683164542142</millis>
+  <nanos>783800</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@44f75083</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T02:15:18.939448900Z</date>
+  <millis>1683166518939</millis>
+  <nanos>448900</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot invoke "java.sql.Connection.prepareCall(String)" because "this.con" is null****[Ljava.lang.StackTraceElement;@52525845</message>
+</record>
+<record>
+  <date>2023-05-04T02:15:18.943806200Z</date>
+  <millis>1683166518943</millis>
+  <nanos>806200</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@44f75083</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T02:19:45.296473500Z</date>
+  <millis>1683166785296</millis>
+  <nanos>473500</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot invoke "java.sql.Connection.prepareCall(String)" because "this.con" is null****[Ljava.lang.StackTraceElement;@52525845</message>
+</record>
+<record>
+  <date>2023-05-04T02:19:45.303126Z</date>
+  <millis>1683166785303</millis>
+  <nanos>126000</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@44f75083</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T02:19:57.115924500Z</date>
+  <millis>1683166797115</millis>
+  <nanos>924500</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>El DNI ingresado ya existe en la base de datos****[Ljava.lang.StackTraceElement;@453da22c</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T02:21:15.125082500Z</date>
+  <millis>1683166875125</millis>
+  <nanos>82500</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot add or update a child row: a foreign key constraint fails (`colegio`.`matricula`, CONSTRAINT `fk_matricula_alumno_id` FOREIGN KEY (`alumno_id`) REFERENCES `alumno` (`alumno_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)****[Ljava.lang.StackTraceElement;@70b0b186</message>
+</record>
+<record>
+  <date>2023-05-04T02:21:15.128158100Z</date>
+  <millis>1683166875128</millis>
+  <nanos>158100</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@6b53e23f</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T02:27:43.099476400Z</date>
+  <millis>1683167263099</millis>
+  <nanos>476400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>El DNI ingresado ya existe en la base de datos****[Ljava.lang.StackTraceElement;@453da22c</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T02:34:25.434965400Z</date>
+  <millis>1683167665434</millis>
+  <nanos>965400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot add or update a child row: a foreign key constraint fails (`colegio`.`curso`, CONSTRAINT `fk_curso_area_id` FOREIGN KEY (`area_id`) REFERENCES `area` (`area_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)****[Ljava.lang.StackTraceElement;@6b67034</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T02:37:24.268064700Z</date>
+  <millis>1683167844268</millis>
+  <nanos>64700</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Cannot add or update a child row: a foreign key constraint fails (`colegio`.`curso`, CONSTRAINT `fk_curso_area_id` FOREIGN KEY (`area_id`) REFERENCES `area` (`area_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)****[Ljava.lang.StackTraceElement;@6b67034</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T03:24:12.266130800Z</date>
+  <millis>1683170652266</millis>
+  <nanos>130800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'apoderado' not found.****[Ljava.lang.StackTraceElement;@1dd02175</message>
+</record>
+<record>
+  <date>2023-05-04T03:24:12.271447600Z</date>
+  <millis>1683170652271</millis>
+  <nanos>447600</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@473b46c3</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T03:31:11.770929300Z</date>
+  <millis>1683171071770</millis>
+  <nanos>929300</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Parameter number 1 is not an OUT parameter****[Ljava.lang.StackTraceElement;@10b48321</message>
+</record>
+<record>
+  <date>2023-05-04T03:31:11.777902500Z</date>
+  <millis>1683171071777</millis>
+  <nanos>902500</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Error crítico: Comunicarse con el administrador del sistema****[Ljava.lang.StackTraceElement;@709ba3fb</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T03:43:26.206070300Z</date>
+  <millis>1683171806206</millis>
+  <nanos>70300</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'pago_matricula_id' not found.****[Ljava.lang.StackTraceElement;@15d9bc04</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T03:45:38.713064900Z</date>
+  <millis>1683171938713</millis>
+  <nanos>64900</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Unknown column 'pago_matricula_id' in 'field list'****[Ljava.lang.StackTraceElement;@7ff2a664</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T03:46:23.912279200Z</date>
+  <millis>1683171983912</millis>
+  <nanos>279200</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Unknown column 'pago_matricula_id' in 'field list'****[Ljava.lang.StackTraceElement;@7ff2a664</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T03:47:18.010442100Z</date>
+  <millis>1683172038010</millis>
+  <nanos>442100</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Unknown column 'pago_matricula_id' in 'field list'****[Ljava.lang.StackTraceElement;@7ff2a664</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T03:47:45.767017800Z</date>
+  <millis>1683172065767</millis>
+  <nanos>17800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Unknown column 'pago_matricula_id' in 'field list'****[Ljava.lang.StackTraceElement;@7ff2a664</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T03:54:44.516272300Z</date>
+  <millis>1683172484516</millis>
+  <nanos>272300</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'observacion' not found.****[Ljava.lang.StackTraceElement;@6591f517</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T03:56:22.585419900Z</date>
+  <millis>1683172582585</millis>
+  <nanos>419900</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'observacion' not found.****[Ljava.lang.StackTraceElement;@6591f517</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T03:56:45.126582600Z</date>
+  <millis>1683172605126</millis>
+  <nanos>582600</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'observacion' not found.****[Ljava.lang.StackTraceElement;@6591f517</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T03:57:09.400203800Z</date>
+  <millis>1683172629400</millis>
+  <nanos>203800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'observacion' not found.****[Ljava.lang.StackTraceElement;@6591f517</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T03:58:41.737836600Z</date>
+  <millis>1683172721737</millis>
+  <nanos>836600</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'observacion' not found.****[Ljava.lang.StackTraceElement;@6591f517</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T03:59:00.794952900Z</date>
+  <millis>1683172740794</millis>
+  <nanos>952900</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'observacion' not found.****[Ljava.lang.StackTraceElement;@6591f517</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T03:59:26.121615500Z</date>
+  <millis>1683172766121</millis>
+  <nanos>615500</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'observacion' not found.****[Ljava.lang.StackTraceElement;@6591f517</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T03:59:52.910582500Z</date>
+  <millis>1683172792910</millis>
+  <nanos>582500</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'observacion' not found.****[Ljava.lang.StackTraceElement;@6591f517</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T04:00:11.171411400Z</date>
+  <millis>1683172811171</millis>
+  <nanos>411400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'observacion' not found.****[Ljava.lang.StackTraceElement;@6591f517</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T04:01:03.819501400Z</date>
+  <millis>1683172863819</millis>
+  <nanos>501400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'observacion' not found.****[Ljava.lang.StackTraceElement;@6591f517</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T04:01:47.878304Z</date>
+  <millis>1683172907878</millis>
+  <nanos>304000</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'observacion' not found.****[Ljava.lang.StackTraceElement;@6591f517</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T04:02:15.247481800Z</date>
+  <millis>1683172935247</millis>
+  <nanos>481800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'observacion' not found.****[Ljava.lang.StackTraceElement;@6591f517</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T04:02:35.708362100Z</date>
+  <millis>1683172955708</millis>
+  <nanos>362100</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'observacion' not found.****[Ljava.lang.StackTraceElement;@6591f517</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T04:02:56.375903100Z</date>
+  <millis>1683172976375</millis>
+  <nanos>903100</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'observacion' not found.****[Ljava.lang.StackTraceElement;@6591f517</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T04:04:16.831571500Z</date>
+  <millis>1683173056831</millis>
+  <nanos>571500</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'observacion' not found.****[Ljava.lang.StackTraceElement;@6591f517</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T04:05:04.003362700Z</date>
+  <millis>1683173104003</millis>
+  <nanos>362700</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'descripcion' not found.****[Ljava.lang.StackTraceElement;@dd3b207</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T04:05:15.909611Z</date>
+  <millis>1683173115909</millis>
+  <nanos>611000</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'descripcion' not found.****[Ljava.lang.StackTraceElement;@dd3b207</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T04:05:24.910268700Z</date>
+  <millis>1683173124910</millis>
+  <nanos>268700</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'descripcion' not found.****[Ljava.lang.StackTraceElement;@dd3b207</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T04:19:28.932456300Z</date>
+  <millis>1683173968932</millis>
+  <nanos>456300</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Unknown column 'apoderado' in 'field list'****[Ljava.lang.StackTraceElement;@442675e1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T04:26:32.179354600Z</date>
+  <millis>1683174392179</millis>
+  <nanos>354600</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Duplicate entry '2-1' for key 'PRIMARY'****[Ljava.lang.StackTraceElement;@6b67034</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T04:26:48.067910Z</date>
+  <millis>1683174408067</millis>
+  <nanos>910000</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Duplicate entry '2-1' for key 'PRIMARY'****[Ljava.lang.StackTraceElement;@6b67034</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T04:28:12.919162900Z</date>
+  <millis>1683174492919</millis>
+  <nanos>162900</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Duplicate entry '2-1' for key 'PRIMARY'****[Ljava.lang.StackTraceElement;@6b67034</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T04:29:00.586760100Z</date>
+  <millis>1683174540586</millis>
+  <nanos>760100</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Duplicate entry '2-1' for key 'PRIMARY'****[Ljava.lang.StackTraceElement;@6b67034</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T04:36:01.517331100Z</date>
+  <millis>1683174961517</millis>
+  <nanos>331100</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Table 'colegio.asistenciaalumnos' doesn't exist****[Ljava.lang.StackTraceElement;@69b794e2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T04:38:31.899303400Z</date>
+  <millis>1683175111899</millis>
+  <nanos>303400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Table 'colegio.asistenciaalumnos' doesn't exist****[Ljava.lang.StackTraceElement;@69b794e2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-04T04:46:01.248077400Z</date>
+  <millis>1683175561248</millis>
+  <nanos>77400</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>Utilities.Bitacora</class>
+  <method>registrar</method>
+  <thread>1</thread>
+  <message>Column 'alumno_id' not found.****[Ljava.lang.StackTraceElement;@58fdd99</message>
+</record>
+</log>
